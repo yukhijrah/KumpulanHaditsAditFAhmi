@@ -1,4 +1,4 @@
-package wahab.app.kumpulanhadits;
+package Fahmi.app.kumpulanhadits;
 
 import android.content.Context;
 import android.support.test.InstrumentationRegistry;

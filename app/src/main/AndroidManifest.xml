@@ -1,6 +1,6 @@
 <manifest
     xmlns:android="http://schemas.android.com/apk/res/android"
-    package="wahab.app.kumpulanhadits">
+    package="Fahmi.app.kumpulanhadits">
 
     <application
         android:allowBackup="true"
@@ -12,7 +12,7 @@
 
 
         <activity
-            android:name=".SplashActivity">
+            android:name="Fahmi.app.kumpulanhadits.SplashActivity">
 
             <intent-filter>
                 <action android:name="android.intent.action.MAIN"/>
@@ -24,13 +24,13 @@
 
         <activity
             android:theme="@style/AppTheme"
-            android:name=".MainActivity"/>
+            android:name="Fahmi.app.kumpulanhadits.MainActivity"/>
 
         <activity
             android:theme="@style/AppTheme"
-            android:name=".DetailActivity"
+            android:name="Fahmi.app.kumpulanhadits.DetailActivity"
             android:label="@string/detail_doa"
-            android:parentActivityName=".MainActivity"/>
+            android:parentActivityName="Fahmi.app.kumpulanhadits.MainActivity"/>
 
     </application>
 

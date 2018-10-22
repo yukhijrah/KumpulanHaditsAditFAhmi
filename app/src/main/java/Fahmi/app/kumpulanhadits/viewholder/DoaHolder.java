@@ -1,4 +1,4 @@
-package wahab.app.kumpulanhadits.viewholder;
+package Fahmi.app.kumpulanhadits.viewholder;
 
 import android.support.v7.widget.CardView;
 import android.support.v7.widget.RecyclerView;
@@ -6,7 +6,7 @@ import android.view.View;
 import android.widget.ImageView;
 import android.widget.TextView;
 
-import wahab.app.kumpulanhadits.R;
+import Fahmi.app.kumpulanhadits.R;
 
 /**
  * Created by wahab on 20/10/18.

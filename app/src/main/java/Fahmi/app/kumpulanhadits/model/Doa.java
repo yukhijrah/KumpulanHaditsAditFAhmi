@@ -1,4 +1,4 @@
-package wahab.app.kumpulanhadits.model;
+package Fahmi.app.kumpulanhadits.model;
 
 /**
  * Created by wahab on 20/10/18.

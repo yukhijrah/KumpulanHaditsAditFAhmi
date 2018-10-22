@@ -1,4 +1,4 @@
-package wahab.app.kumpulanhadits;
+package Fahmi.app.kumpulanhadits;
 
 import android.os.Bundle;
 import android.support.annotation.Nullable;
@@ -9,8 +9,8 @@ import android.support.v7.widget.RecyclerView;
 import java.util.ArrayList;
 import java.util.List;
 
-import wahab.app.kumpulanhadits.adapter.DoaAdapter;
-import wahab.app.kumpulanhadits.model.Doa;
+import Fahmi.app.kumpulanhadits.adapter.DoaAdapter;
+import Fahmi.app.kumpulanhadits.model.Doa;
 
 /**
  * Created by wahab on 13/10/18.

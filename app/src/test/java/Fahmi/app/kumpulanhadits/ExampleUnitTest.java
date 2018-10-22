@@ -1,4 +1,4 @@
-package wahab.app.kumpulanhadits;
+package Fahmi.app.kumpulanhadits;
 
 import org.junit.Test;
 

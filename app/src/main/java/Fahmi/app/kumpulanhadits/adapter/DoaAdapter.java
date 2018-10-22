@@ -1,4 +1,4 @@
-package wahab.app.kumpulanhadits.adapter;
+package Fahmi.app.kumpulanhadits.adapter;
 
 import android.content.Context;
 import android.content.Intent;
@@ -9,10 +9,10 @@ import android.view.ViewGroup;
 
 import java.util.List;
 
-import wahab.app.kumpulanhadits.DetailActivity;
-import wahab.app.kumpulanhadits.R;
-import wahab.app.kumpulanhadits.model.Doa;
-import wahab.app.kumpulanhadits.viewholder.DoaHolder;
+import Fahmi.app.kumpulanhadits.DetailActivity;
+import Fahmi.app.kumpulanhadits.R;
+import Fahmi.app.kumpulanhadits.model.Doa;
+import Fahmi.app.kumpulanhadits.viewholder.DoaHolder;
 
 /**
  * Created by wahab on 20/10/18.
